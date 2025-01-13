@@ -1,0 +1,15 @@
+
+MONGO_URI = mongodb+srv://trinadasgupta:jFMliK4MiU0zfOFn@cluster0.0falk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY= adsdsfssssdsd
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = http://localhost:5173
+
+
+CLOUDINARY_CLOUD_NAME= dtucu3nim
+CLOUDINARY_API_KEY = 353197895699913
+CLOUDINARY_API_SECRET = ptg98IE0ReSP_l0KG4uVupMWvyk
